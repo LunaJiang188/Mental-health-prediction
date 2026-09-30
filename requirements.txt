@@ -9,3 +9,8 @@ kagglehub
 jupyter
 ipywidgets
 tqdm
+os
+pytest
+black
+flak8
+pathlib
