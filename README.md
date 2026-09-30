@@ -32,17 +32,24 @@ Mental-health-prediction/
 │   └── mental_health_data.csv
 |
 |__models/
-|   |── preprocessor.joblib
-|   └── xgboost_model.json
+|   |── preprocessor.pkl
+|   └── mental_health_xgboost.pkl
 │
 ├── src/
 │   ├── data_explore.ipynb
 │   |── modelling.ipynb
-│   └── mini_signoff.ipynb
+│   |── mini_signoff.ipynb
+│   └── mini_signoff.html
 │
-├── Test/
-|    └── ...Pending
+|── src/
+│   ├── __init__.py
+│   └── interpretation.py
 |
+├── test/
+|    └── interpretation.py
+|
+├── figures/
+|    └── ....
 |
 ```
 ------
