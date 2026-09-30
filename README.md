@@ -91,7 +91,7 @@ pip install -r requirements.txt
 
 ### 4. Start Jupyter Notebook
 
-The analysis and modelling work is provided in the `src` folder.
+The analysis and modelling work is provided in the `doc` folder.
 
 Start Jupyter with:
 
@@ -102,13 +102,13 @@ jupyter notebook
 Then open:
 
 ```text
-src/data_explore.ipynb
+doc/data_explore.ipynb
 ```
 
 or:
 
 ```text
-src/modelling.ipynb
+doc/modelling.ipynb
 ```
 
 ### 5. Download the Dataset
