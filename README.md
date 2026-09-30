@@ -51,7 +51,7 @@ Mental-health-prediction/
 ├── figures/
 |    └── ....
 |
-```
+``` 
 ------
 ## How to start
 ### 1. Clone the Repository
