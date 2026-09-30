@@ -115,3 +115,10 @@ doc/modelling.ipynb
 The dataset is downloaded from Kaggle using `kagglehub`.
 
 After the initial data exploration, I manually added `RecordID` and `data_split` columns. To keep the data consistent and ensure that the test data remains unseen until the final evaluation, I saved the updated dataset as `data/mental_health_data.csv`.
+
+### 6. Download the Model and Preprocessor
+
+The trained model and preprocessor are available for download below:
+
+* **XGBoost Model:** `models/mental_health_xgboost.pkl`
+* **Preprocessor:** `models/preprocessor.pkl`
